@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy.</h1>
+<h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahirahmadchaudhry&label=Profile%20views&color=0e75b6&style=flat" alt="zahirahmadchaudhry" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahirahmadchaudhry" alt="zahirahmadchaudhry" /></a> </p>
 
 - 🌱 I’m currently learning **MLOps, Generative AI, LLMs, AI Agents**
 

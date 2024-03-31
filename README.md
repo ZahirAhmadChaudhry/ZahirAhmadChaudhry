@@ -1,4 +1,4 @@
-[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://camo.githubusercontent.com/0056c89c8f2eef0afe1013a7ac007fbf5b5c5f6f18ce73ffb9db6976ef7b3fa4/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966))]
+[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d])
 <h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 

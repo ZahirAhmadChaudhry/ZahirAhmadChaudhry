@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif)]
 <h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 

@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0056c89c8f2eef0afe1013a7ac007fbf5b5c5f6f18ce73ffb9db6976ef7b3fa468747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3932363533372f73637265656e73686f74732f343530323932342f707974686f6e2d322e676966)]
+[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)]
 <h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
 

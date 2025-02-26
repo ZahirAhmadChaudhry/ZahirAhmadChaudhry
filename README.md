@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*BIpRgx5FsEMhr1k2EqBKFg.gif)]
-<h1 align="center">Hi 👋, I'm Zahir AHMAD, Machine Learning Research Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan</h3>
+<h1 align="center">Machine Learning Research (NLP) Intern at Coactis Laboratory, Saint Etienne, Jean Monnet Univeristy, France</h1>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahirahmadchaudhry&label=Profile%20views&color=0e75b6&style=flat" alt="zahirahmadchaudhry" /> </p>
 

@@ -55,7 +55,7 @@
 ### 📫 Connect
 
 - LinkedIn: [zahirahmadchaudhry](https://www.linkedin.com/in/zahirahmadchaudhry/)
-- Email: zahirahmadchaudhry[at]gmail.com
+- Email: zahirahmadchaudhry[at]gmail[dot]com
 - Kaggle: [zahirahmadch](https://www.kaggle.com/zahirahmadch)
 
 ---
